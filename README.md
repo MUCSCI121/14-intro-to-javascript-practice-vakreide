@@ -1,4 +1,7 @@
-# CodespacesWebTemplate
+# JavaScript practice
+Project to practice using JavaScript.
+
+--------------------------------------------------
 
 Provides the basic configuration to launch a GitHub Codespace environment ready for HTML, CSS, and JavaScript coding. The project will spin up a Codespace with the following plugins:
 
@@ -16,7 +19,9 @@ GitDoc is a great extension to automatically commit and push changes into the re
 
 1. On the right-hand side of the `Codespaces` editor, click on the `Extensions` icon.
 
-![image](.assets/extensionIcon.jpg) 2. Once the `Extensions` sidebar expands, click on the gear icon in the `GitDoc` extension card and then select `Extension Settings` from the menu.
+![image](.assets/extensionIcon.jpg) 
+
+2. Once the `Extensions` sidebar expands, click on the gear icon in the `GitDoc` extension card and then select `Extension Settings` from the menu.
 
 ![image](.assets/extensionSettingClick.jpg)
 
