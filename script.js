@@ -11,7 +11,20 @@ if (false) {
     console.log("oops');")
 }
 
-console.log(temperature:"  +  temperature");
+temperature = 120;
+console.log(temperature: "  +  temperature");
+
+if (temperature < 33) {
+    console.log("Chance of Snow");
+} else if (temperatue < 70) {
+    console.log("Chance of Rain");
+} else if (temperature <100){
+    console.log("chance of thunderstorms");
+} else {
+    console.log("Chance of Sandstorms");
+}
+
+if (some value){}
 
 console.log("--------------------");
 /*
