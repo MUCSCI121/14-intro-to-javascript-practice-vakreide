@@ -27,12 +27,9 @@ if (temperature < 33) {
 if (some value){}
 
 console.log("--------------------");
-/*
-*Practice using functions
-*/
-function divide(numerator,denominator) {
-    console.log("divide started");
-    let result = numerator/denominator;
-    return result;
+
+
+let num=0;
+while(num<10){}
 }
 
