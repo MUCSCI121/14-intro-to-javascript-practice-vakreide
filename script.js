@@ -30,6 +30,9 @@ console.log("--------------------");
 
 
 let num=0;
-while(num<10){}
+while(num<10){
+    console.log("num squared", num * num);
+    num = num +1;
 }
+let names = "kri"
 
