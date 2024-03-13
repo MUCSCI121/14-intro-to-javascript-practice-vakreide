@@ -35,3 +35,4 @@ function divide(numerator,denominator) {
     let result = numerator/denominator;
     return result;
 }
+
